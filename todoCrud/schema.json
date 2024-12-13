@@ -1,0 +1,17 @@
+{
+    "todos": [
+        {
+            "id": 1,
+            "title": "Learn GraphQL",
+            "start_time": {
+                "hour": 10,
+                "minute": 0
+            },
+            "end_time": {
+                "hour": 11,
+                "minute": 0
+            },
+            "completed": false
+        }
+    ]
+}

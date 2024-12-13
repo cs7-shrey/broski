@@ -1,0 +1,7 @@
+{
+    "watch": ["main.js"],
+    "ignore": ["node_modules"],
+    "exec": "electron .",
+    "restartable": "rs", 
+    "delay": "5000"
+}

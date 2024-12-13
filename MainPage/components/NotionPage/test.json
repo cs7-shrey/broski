@@ -1,0 +1,612 @@
+{
+    "object": "list",
+    "results": [
+        {
+            "object": "block",
+            "id": "9be3be02-d3b1-42a3-9915-36a71653dbe7",
+            "parent": {
+                "type": "page_id",
+                "page_id": "70483686-4522-4a25-b9f5-ab9386fa7527"
+            },
+            "created_time": "2024-07-31T20:24:00.000Z",
+            "last_edited_time": "2024-07-31T20:24:00.000Z",
+            "created_by": {
+                "object": "user",
+                "id": "c550dcb3-32ea-4125-96a7-b4df2702848e"
+            },
+            "last_edited_by": {
+                "object": "user",
+                "id": "c550dcb3-32ea-4125-96a7-b4df2702848e"
+            },
+            "has_children": false,
+            "archived": false,
+            "in_trash": false,
+            "type": "unsupported",
+            "unsupported": {}
+        },
+        {
+            "object": "block",
+            "id": "43a71576-ab79-4d5e-a8b9-9b919a65d2d7",
+            "parent": {
+                "type": "page_id",
+                "page_id": "70483686-4522-4a25-b9f5-ab9386fa7527"
+            },
+            "created_time": "2024-08-14T20:12:00.000Z",
+            "last_edited_time": "2024-08-14T20:12:00.000Z",
+            "created_by": {
+                "object": "user",
+                "id": "c550dcb3-32ea-4125-96a7-b4df2702848e"
+            },
+            "last_edited_by": {
+                "object": "user",
+                "id": "c550dcb3-32ea-4125-96a7-b4df2702848e"
+            },
+            "has_children": false,
+            "archived": false,
+            "in_trash": false,
+            "type": "paragraph",
+            "paragraph": {
+                "rich_text": [
+                    {
+                        "type": "text",
+                        "text": {
+                            "content": "⇒ Kaggle CNNs",
+                            "link": null
+                        },
+                        "annotations": {
+                            "bold": false,
+                            "italic": false,
+                            "strikethrough": false,
+                            "underline": false,
+                            "code": false,
+                            "color": "default"
+                        },
+                        "plain_text": "⇒ Kaggle CNNs",
+                        "href": null
+                    }
+                ],
+                "color": "default"
+            }
+        },
+        {
+            "object": "block",
+            "id": "db3d7952-3b67-4bb5-9cfc-08ee04dbc1e2",
+            "parent": {
+                "type": "page_id",
+                "page_id": "70483686-4522-4a25-b9f5-ab9386fa7527"
+            },
+            "created_time": "2024-08-21T19:33:00.000Z",
+            "last_edited_time": "2024-08-21T19:33:00.000Z",
+            "created_by": {
+                "object": "user",
+                "id": "c550dcb3-32ea-4125-96a7-b4df2702848e"
+            },
+            "last_edited_by": {
+                "object": "user",
+                "id": "c550dcb3-32ea-4125-96a7-b4df2702848e"
+            },
+            "has_children": false,
+            "archived": false,
+            "in_trash": false,
+            "type": "paragraph",
+            "paragraph": {
+                "rich_text": [],
+                "color": "default"
+            }
+        },
+        {
+            "object": "block",
+            "id": "ab48e4c9-4d44-45d5-b686-d28d988c7833",
+            "parent": {
+                "type": "page_id",
+                "page_id": "70483686-4522-4a25-b9f5-ab9386fa7527"
+            },
+            "created_time": "2024-08-21T19:33:00.000Z",
+            "last_edited_time": "2024-08-24T19:45:00.000Z",
+            "created_by": {
+                "object": "user",
+                "id": "c550dcb3-32ea-4125-96a7-b4df2702848e"
+            },
+            "last_edited_by": {
+                "object": "user",
+                "id": "c550dcb3-32ea-4125-96a7-b4df2702848e"
+            },
+            "has_children": false,
+            "archived": false,
+            "in_trash": false,
+            "type": "heading_2",
+            "heading_2": {
+                "rich_text": [
+                    {
+                        "type": "text",
+                        "text": {
+                            "content": "Today:",
+                            "link": null
+                        },
+                        "annotations": {
+                            "bold": false,
+                            "italic": false,
+                            "strikethrough": false,
+                            "underline": false,
+                            "code": false,
+                            "color": "default"
+                        },
+                        "plain_text": "Today:",
+                        "href": null
+                    }
+                ],
+                "is_toggleable": false,
+                "color": "default"
+            }
+        },
+        {
+            "object": "block",
+            "id": "023bc026-9342-45c3-a3fe-235bbe86617a",
+            "parent": {
+                "type": "page_id",
+                "page_id": "70483686-4522-4a25-b9f5-ab9386fa7527"
+            },
+            "created_time": "2024-09-03T19:47:00.000Z",
+            "last_edited_time": "2024-12-05T20:10:00.000Z",
+            "created_by": {
+                "object": "user",
+                "id": "c550dcb3-32ea-4125-96a7-b4df2702848e"
+            },
+            "last_edited_by": {
+                "object": "user",
+                "id": "c550dcb3-32ea-4125-96a7-b4df2702848e"
+            },
+            "has_children": false,
+            "archived": false,
+            "in_trash": false,
+            "type": "numbered_list_item",
+            "numbered_list_item": {
+                "rich_text": [
+                    {
+                        "type": "text",
+                        "text": {
+                            "content": "find hackathons",
+                            "link": null
+                        },
+                        "annotations": {
+                            "bold": false,
+                            "italic": false,
+                            "strikethrough": false,
+                            "underline": false,
+                            "code": false,
+                            "color": "default"
+                        },
+                        "plain_text": "find hackathons",
+                        "href": null
+                    }
+                ],
+                "color": "default"
+            }
+        },
+        {
+            "object": "block",
+            "id": "1535b902-65e4-80cc-ac6e-c2c262034fa4",
+            "parent": {
+                "type": "page_id",
+                "page_id": "70483686-4522-4a25-b9f5-ab9386fa7527"
+            },
+            "created_time": "2024-12-05T20:10:00.000Z",
+            "last_edited_time": "2024-12-05T20:10:00.000Z",
+            "created_by": {
+                "object": "user",
+                "id": "c550dcb3-32ea-4125-96a7-b4df2702848e"
+            },
+            "last_edited_by": {
+                "object": "user",
+                "id": "c550dcb3-32ea-4125-96a7-b4df2702848e"
+            },
+            "has_children": false,
+            "archived": false,
+            "in_trash": false,
+            "type": "numbered_list_item",
+            "numbered_list_item": {
+                "rich_text": [
+                    {
+                        "type": "text",
+                        "text": {
+                            "content": "array dsa questions",
+                            "link": null
+                        },
+                        "annotations": {
+                            "bold": false,
+                            "italic": false,
+                            "strikethrough": false,
+                            "underline": false,
+                            "code": false,
+                            "color": "default"
+                        },
+                        "plain_text": "array dsa questions",
+                        "href": null
+                    }
+                ],
+                "color": "default"
+            }
+        },
+        {
+            "object": "block",
+            "id": "1535b902-65e4-809a-aedb-f5d1640a55ed",
+            "parent": {
+                "type": "page_id",
+                "page_id": "70483686-4522-4a25-b9f5-ab9386fa7527"
+            },
+            "created_time": "2024-12-05T20:10:00.000Z",
+            "last_edited_time": "2024-12-05T20:10:00.000Z",
+            "created_by": {
+                "object": "user",
+                "id": "c550dcb3-32ea-4125-96a7-b4df2702848e"
+            },
+            "last_edited_by": {
+                "object": "user",
+                "id": "c550dcb3-32ea-4125-96a7-b4df2702848e"
+            },
+            "has_children": false,
+            "archived": false,
+            "in_trash": false,
+            "type": "numbered_list_item",
+            "numbered_list_item": {
+                "rich_text": [
+                    {
+                        "type": "text",
+                        "text": {
+                            "content": "plan for web dev, blockchain, AI",
+                            "link": null
+                        },
+                        "annotations": {
+                            "bold": false,
+                            "italic": false,
+                            "strikethrough": false,
+                            "underline": false,
+                            "code": false,
+                            "color": "default"
+                        },
+                        "plain_text": "plan for web dev, blockchain, AI",
+                        "href": null
+                    }
+                ],
+                "color": "default"
+            }
+        },
+        {
+            "object": "block",
+            "id": "1535b902-65e4-8091-b4b3-e3b3e6c5166d",
+            "parent": {
+                "type": "page_id",
+                "page_id": "70483686-4522-4a25-b9f5-ab9386fa7527"
+            },
+            "created_time": "2024-12-05T20:10:00.000Z",
+            "last_edited_time": "2024-12-05T20:11:00.000Z",
+            "created_by": {
+                "object": "user",
+                "id": "c550dcb3-32ea-4125-96a7-b4df2702848e"
+            },
+            "last_edited_by": {
+                "object": "user",
+                "id": "c550dcb3-32ea-4125-96a7-b4df2702848e"
+            },
+            "has_children": false,
+            "archived": false,
+            "in_trash": false,
+            "type": "numbered_list_item",
+            "numbered_list_item": {
+                "rich_text": [
+                    {
+                        "type": "text",
+                        "text": {
+                            "content": "do something of the plan",
+                            "link": null
+                        },
+                        "annotations": {
+                            "bold": false,
+                            "italic": false,
+                            "strikethrough": false,
+                            "underline": false,
+                            "code": false,
+                            "color": "default"
+                        },
+                        "plain_text": "do something of the plan",
+                        "href": null
+                    }
+                ],
+                "color": "default"
+            }
+        },
+        {
+            "object": "block",
+            "id": "9d23d5ba-5bc8-481b-af14-0be9a29f13b4",
+            "parent": {
+                "type": "page_id",
+                "page_id": "70483686-4522-4a25-b9f5-ab9386fa7527"
+            },
+            "created_time": "2024-12-05T20:35:00.000Z",
+            "last_edited_time": "2024-12-05T20:36:00.000Z",
+            "created_by": {
+                "object": "user",
+                "id": "c550dcb3-32ea-4125-96a7-b4df2702848e"
+            },
+            "last_edited_by": {
+                "object": "user",
+                "id": "c550dcb3-32ea-4125-96a7-b4df2702848e"
+            },
+            "has_children": false,
+            "archived": false,
+            "in_trash": false,
+            "type": "numbered_list_item",
+            "numbered_list_item": {
+                "rich_text": [
+                    {
+                        "type": "text",
+                        "text": {
+                            "content": "Setup a way to record progress and monitor it. Something to record the work done in each day.",
+                            "link": null
+                        },
+                        "annotations": {
+                            "bold": false,
+                            "italic": false,
+                            "strikethrough": false,
+                            "underline": false,
+                            "code": false,
+                            "color": "default"
+                        },
+                        "plain_text": "Setup a way to record progress and monitor it. Something to record the work done in each day.",
+                        "href": null
+                    }
+                ],
+                "color": "default"
+            }
+        },
+        {
+            "object": "block",
+            "id": "d41aea00-d747-421a-b615-d52ea08d6b42",
+            "parent": {
+                "type": "page_id",
+                "page_id": "70483686-4522-4a25-b9f5-ab9386fa7527"
+            },
+            "created_time": "2024-08-26T17:51:00.000Z",
+            "last_edited_time": "2024-11-12T16:47:00.000Z",
+            "created_by": {
+                "object": "user",
+                "id": "c550dcb3-32ea-4125-96a7-b4df2702848e"
+            },
+            "last_edited_by": {
+                "object": "user",
+                "id": "c550dcb3-32ea-4125-96a7-b4df2702848e"
+            },
+            "has_children": false,
+            "archived": false,
+            "in_trash": false,
+            "type": "paragraph",
+            "paragraph": {
+                "rich_text": [],
+                "color": "default"
+            }
+        },
+        {
+            "object": "block",
+            "id": "f8c867e6-68f8-4c0a-82b9-d36416794df0",
+            "parent": {
+                "type": "page_id",
+                "page_id": "70483686-4522-4a25-b9f5-ab9386fa7527"
+            },
+            "created_time": "2024-06-18T05:39:00.000Z",
+            "last_edited_time": "2024-06-18T05:41:00.000Z",
+            "created_by": {
+                "object": "user",
+                "id": "c550dcb3-32ea-4125-96a7-b4df2702848e"
+            },
+            "last_edited_by": {
+                "object": "user",
+                "id": "c550dcb3-32ea-4125-96a7-b4df2702848e"
+            },
+            "has_children": false,
+            "archived": false,
+            "in_trash": false,
+            "type": "embed",
+            "embed": {
+                "caption": [],
+                "url": "https://calendar.notion.so/"
+            }
+        },
+        {
+            "object": "block",
+            "id": "71d90b71-39de-41d0-82a0-1cda561addf9",
+            "parent": {
+                "type": "page_id",
+                "page_id": "70483686-4522-4a25-b9f5-ab9386fa7527"
+            },
+            "created_time": "2024-07-16T08:51:00.000Z",
+            "last_edited_time": "2024-07-16T08:51:00.000Z",
+            "created_by": {
+                "object": "user",
+                "id": "c550dcb3-32ea-4125-96a7-b4df2702848e"
+            },
+            "last_edited_by": {
+                "object": "user",
+                "id": "c550dcb3-32ea-4125-96a7-b4df2702848e"
+            },
+            "has_children": false,
+            "archived": false,
+            "in_trash": false,
+            "type": "paragraph",
+            "paragraph": {
+                "rich_text": [],
+                "color": "default"
+            }
+        },
+        {
+            "object": "block",
+            "id": "2cb3fcd6-2f3b-4cb2-80c6-dcef9229b83a",
+            "parent": {
+                "type": "page_id",
+                "page_id": "70483686-4522-4a25-b9f5-ab9386fa7527"
+            },
+            "created_time": "2024-06-19T20:23:00.000Z",
+            "last_edited_time": "2024-07-16T08:51:00.000Z",
+            "created_by": {
+                "object": "user",
+                "id": "c550dcb3-32ea-4125-96a7-b4df2702848e"
+            },
+            "last_edited_by": {
+                "object": "user",
+                "id": "c550dcb3-32ea-4125-96a7-b4df2702848e"
+            },
+            "has_children": false,
+            "archived": false,
+            "in_trash": false,
+            "type": "paragraph",
+            "paragraph": {
+                "rich_text": [],
+                "color": "default"
+            }
+        },
+        {
+            "object": "block",
+            "id": "e7b814b1-c83b-4fff-8676-65d7ffbd62f5",
+            "parent": {
+                "type": "page_id",
+                "page_id": "70483686-4522-4a25-b9f5-ab9386fa7527"
+            },
+            "created_time": "2024-07-16T08:51:00.000Z",
+            "last_edited_time": "2024-07-16T08:51:00.000Z",
+            "created_by": {
+                "object": "user",
+                "id": "c550dcb3-32ea-4125-96a7-b4df2702848e"
+            },
+            "last_edited_by": {
+                "object": "user",
+                "id": "c550dcb3-32ea-4125-96a7-b4df2702848e"
+            },
+            "has_children": false,
+            "archived": false,
+            "in_trash": false,
+            "type": "paragraph",
+            "paragraph": {
+                "rich_text": [],
+                "color": "default"
+            }
+        },
+        {
+            "object": "block",
+            "id": "b705d5ba-5dd9-4f05-ab39-0aa92822b57a",
+            "parent": {
+                "type": "page_id",
+                "page_id": "70483686-4522-4a25-b9f5-ab9386fa7527"
+            },
+            "created_time": "2024-06-26T19:38:00.000Z",
+            "last_edited_time": "2024-06-26T19:38:00.000Z",
+            "created_by": {
+                "object": "user",
+                "id": "c550dcb3-32ea-4125-96a7-b4df2702848e"
+            },
+            "last_edited_by": {
+                "object": "user",
+                "id": "c550dcb3-32ea-4125-96a7-b4df2702848e"
+            },
+            "has_children": false,
+            "archived": false,
+            "in_trash": false,
+            "type": "paragraph",
+            "paragraph": {
+                "rich_text": [],
+                "color": "default"
+            }
+        },
+        {
+            "object": "block",
+            "id": "3b79b317-be09-402b-89b1-fc42ee75ce20",
+            "parent": {
+                "type": "page_id",
+                "page_id": "70483686-4522-4a25-b9f5-ab9386fa7527"
+            },
+            "created_time": "2024-09-05T19:29:00.000Z",
+            "last_edited_time": "2024-09-05T19:29:00.000Z",
+            "created_by": {
+                "object": "user",
+                "id": "c550dcb3-32ea-4125-96a7-b4df2702848e"
+            },
+            "last_edited_by": {
+                "object": "user",
+                "id": "c550dcb3-32ea-4125-96a7-b4df2702848e"
+            },
+            "has_children": false,
+            "archived": false,
+            "in_trash": false,
+            "type": "numbered_list_item",
+            "numbered_list_item": {
+                "rich_text": [
+                    {
+                        "type": "text",
+                        "text": {
+                            "content": "Titanic dset eda finish ",
+                            "link": null
+                        },
+                        "annotations": {
+                            "bold": false,
+                            "italic": false,
+                            "strikethrough": false,
+                            "underline": false,
+                            "code": false,
+                            "color": "default"
+                        },
+                        "plain_text": "Titanic dset eda finish ",
+                        "href": null
+                    }
+                ],
+                "color": "default"
+            }
+        },
+        {
+            "object": "block",
+            "id": "96cf5924-9bc5-4f49-9f57-1de21ff95040",
+            "parent": {
+                "type": "page_id",
+                "page_id": "70483686-4522-4a25-b9f5-ab9386fa7527"
+            },
+            "created_time": "2024-09-05T19:29:00.000Z",
+            "last_edited_time": "2024-09-05T19:30:00.000Z",
+            "created_by": {
+                "object": "user",
+                "id": "c550dcb3-32ea-4125-96a7-b4df2702848e"
+            },
+            "last_edited_by": {
+                "object": "user",
+                "id": "c550dcb3-32ea-4125-96a7-b4df2702848e"
+            },
+            "has_children": false,
+            "archived": false,
+            "in_trash": false,
+            "type": "numbered_list_item",
+            "numbered_list_item": {
+                "rich_text": [
+                    {
+                        "type": "text",
+                        "text": {
+                            "content": "Replicate chat got using React ",
+                            "link": null
+                        },
+                        "annotations": {
+                            "bold": false,
+                            "italic": false,
+                            "strikethrough": false,
+                            "underline": false,
+                            "code": false,
+                            "color": "default"
+                        },
+                        "plain_text": "Replicate chat got using React ",
+                        "href": null
+                    }
+                ],
+                "color": "default"
+            }
+        }
+    ],
+    "next_cursor": null,
+    "has_more": false,
+    "type": "block",
+    "block": {},
+    "request_id": "e52d3d39-610f-419d-9c54-3edb7eb16d68"
+}

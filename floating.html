@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>Todo Timer</title>
+  <style>
+    .title-bar {
+      -webkit-app-region: drag;
+      position: fixed;
+      top: 0;
+      left: 0;
+      /* padding-top: 10px; */
+      padding: 3px 0px 3px 0px;
+      color: rgba(89, 230, 255, 0.663);
+      background-color: rgb(0, 0, 0);
+      font-weight: bold;
+      width: 100vw;
+      height: fit-content;
+      display: flex;
+
+    }
+
+    .todo-item {
+      margin: 10px 0;
+      padding: 10px;
+      border: 1px solid #ccc;
+      border-radius: 4px;
+    }
+
+    input,
+    button {
+      margin: 5px;
+      padding: 5px;
+    }
+  </style>
+</head>
+
+<body class="pt-10 bg-[#212121ca]">
+  <div class="title-bar">
+    <!-- &lt;=||=&gt; -->
+    <img src="./FloatingPage/assets/logo.svg" style="filter: invert(100%);"/>
+    <div class="mx-3 text-lg text-white/75">
+      Broski
+    </div>
+  </div>
+  <div id="root" class="p-1">
+  </div>
+
+    <!--
+
+  </div>
+  <div>
+    This is a floating window. You can drag it around and it will stay on top of other windows.
+  </div>
+  <div>
+    Current Todo:
+    <div id="current-todo">
+    </div>
+  </div>
+  <button class="bg-black text-white">
+    Return
+  </button> -->
+  <!-- <script>
+    const btn = document.getElementsByTagName('button')[0];
+    const currentTodoDiv = document.getElementById('current-todo');
+    const clickbtn = async () => {
+      const response = await window.versions.ding();
+      alert('btn clicked', response);
+      console.log(response);
+    }
+    btn.addEventListener('click', clickbtn);
+    window.versions.getCurrentTodo((todo) => {
+      currentTodoDiv.innerText = todo.title;
+    })
+  </script> -->
+  <script type="module" src="./FloatingPage/main.jsx"></script>
+</body>
+
+</html>
