@@ -6,9 +6,6 @@ export default defineConfig({
     outDir: 'dist',
     rollupOptions: {
       external: ['electron'],
-      input: {
-        main: 'MainPage/main.jsx',
-      }
     },
   },
   plugins: [react()],

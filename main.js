@@ -24,13 +24,15 @@ const createMainWindow = () => {
     mainWindow.loadURL('http://localhost:3000');
     // mainWindow.loadFile('index.html');
   } else {
-    mainWindow.loadURL(
-      url.format({
-        pathname: path.join(__dirname, 'dist/index.html'),
-        protocol: 'file:',
-        slashes: true,
-      })
-    );
+    // mainWindow.loadFile(path.join(__dirname,'dist/index.html'));
+    mainWindow.loadFile('./dist/index.html');
+    // mainWindow.loadURL(
+    //   url.format({
+    //     pathname: path.join(__dirname, 'dist/index.html'),
+    //     protocol: 'file:',
+    //     slashes: true,
+    //   })
+    // );
   }
   return mainWindow;
 
@@ -50,7 +52,7 @@ const createFloatingWindow = (currentTodo) => {
     fullscreenable: false,
     alwaysOnTop: true,
     movable: true,
-    // resizable: false,
+    resizable: false,       // should be enabled to have the app always stay on top
     transparent: true,
     // focusable: false,
     webPreferences: {
@@ -63,7 +65,7 @@ const createFloatingWindow = (currentTodo) => {
     floatingWindow.loadURL('http://localhost:3000/floating.html');
   }
   else {
-    floatingWindow.loadFile('dist/floating.html');
+    floatingWindow.loadFile('float/index.html');
   }
   floatingWindow.webContents.on('did-finish-load', () => {
     floatingWindow.webContents.send('todo:share', currentTodo);
