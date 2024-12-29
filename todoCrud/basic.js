@@ -1,7 +1,7 @@
 const path = require('path');
 const fs = require('fs');
 
-const appFolder = path.join(process.env.ZDOTDIR, '.local/share', 'myTodoApp');
+const appFolder = path.join('/home/shrey', '.local/share', 'myTodoApp');
 // if the app folder does not exist, we create such a folder
 if (!fs.existsSync(appFolder)) {
   fs.mkdirSync(appFolder, { recursive: true });

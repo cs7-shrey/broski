@@ -78,7 +78,7 @@ export default function Local() {
         // console.log(todo);
         window.versions.createTodo(todo);
         setTodos([...todos, todo]);
-
+        setNewTodo('');
     }
 
     return (
@@ -92,6 +92,7 @@ export default function Local() {
                         onChange={(e) => {
                             setNewTodo(e.target.value);
                         }}
+                        value={newTodo}
                     />
                 </div>
                 <TimePicker
