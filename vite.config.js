@@ -10,7 +10,6 @@ export default defineConfig({
   },
   plugins: [react()],
   server: {
-    open: 'floating.html',
     port: 3000,
   },
   base: './',
