@@ -11,6 +11,19 @@ export default function App() {
         })
     }, [])
 
+    const [currentTime, setCurrentTime] = useState(new Date());
+
+    // re render every minute
+    useEffect(() => {
+        const intervalId = setInterval(() => {
+            setCurrentTime(new Date());
+        }, 1000 * 60);
+
+        return () => {
+            clearInterval(intervalId);
+        }
+    }, [])
+
     const clickbtn = async (event) => {
         const response = await window.versions.ding();
         console.log(response);
